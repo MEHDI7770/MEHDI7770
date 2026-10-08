@@ -1,4 +1,4 @@
-# Hi, I'm Moulay ElMehdi  👋  development, technology, and building useful digital solutions. 
+# Hi, I'm Moulay ElMehdi  👋  
 
 ### 🚀 Developer | Technology Enthusiast | Lifelong Learner
 
