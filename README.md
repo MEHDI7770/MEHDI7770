@@ -17,7 +17,7 @@ I enjoy learning new technologies, working on personal projects, solving problem
 
 ### 🌱 Currently
 
-I'm continuously developing my skills through **hands-on projects, experimentation, and learning new technologies**.
+ I'm an student in HESTIM and I'm continuously developing my skills through **hands-on projects, experimentation, and learning new technologies**.
 
 ### 🤝 Let's Connect
 
