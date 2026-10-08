@@ -24,7 +24,7 @@ I'm continuously developing my skills through **hands-on projects, experimentati
 I'm always open to **collaboration, interesting projects, and connecting with other developers and technology enthusiasts**.
 
 📫 Feel free to explore my repositories and connect with me on LinkedIn.
-
+www.linkedin.com/in/moulay-elmehdi-bennçar-99941a440
 ---
 
 ⭐ Thanks for visiting my profile!
