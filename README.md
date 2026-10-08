@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Moulay Eldevelopment, technology, and building useful digital solutions. Mehdi 👋
 
-<!--
-**MEHDI7770/MEHDI7770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Developer | Technology Enthusiast | Lifelong Learner
 
-Here are some ideas to get you started:
+I'm a motivated and curious tech enthusiast passionate about **software development, technology, and building useful digital solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, working on personal projects, solving problems, and continuously improving my technical skills.
+
+### 💻 What I'm interested in
+
+* Software Development
+* Web Technologies
+* Programming & Problem Solving
+* Artificial Intelligence
+* Open Source
+* Building creative digital projects
+
+### 🌱 Currently
+
+I'm continuously developing my skills through **hands-on projects, experimentation, and learning new technologies**.
+
+### 🤝 Let's Connect
+
+I'm always open to **collaboration, interesting projects, and connecting with other developers and technology enthusiasts**.
+
+📫 Feel free to explore my repositories and connect with me on LinkedIn.
+
+---
+
+⭐ Thanks for visiting my profile!
